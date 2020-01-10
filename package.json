@@ -1,6 +1,6 @@
 {
   "name": "math_example_chris",
-  "version": "0.0.6",
+  "version": "0.0.8",
   "description": "An example of creating Node package",
   "main": "bin/main.js",
   "scripts": {
